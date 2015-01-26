@@ -20,10 +20,10 @@ int divide(x, y)
 return x/y;
 }
 
-int remainder(x,y)
-{
- return abs(x-y);
-}
+//int remainder(x,y)
+//{
+// return abs(x-y);
+//}
 
 int main()
 {
