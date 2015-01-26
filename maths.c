@@ -1,9 +1,9 @@
 include <stdio.h>
 
-int add(x, y)
-{
-return x+y;
-}
+//int add(x, y)
+//{
+//return x+y;
+//}
 
 int subtract(x, y)
 {
